@@ -1,4 +1,4 @@
-# Project Title
+# Java Hadoop Word Count Application
 
 Sample Wordcount Java app to count words in a file using Map and Reduce functions in hadoop
 
